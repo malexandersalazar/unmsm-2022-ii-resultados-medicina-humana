@@ -16,7 +16,7 @@ Obtuve los resultados del examen de admisión de la UNMSM 2022-II en modalidad E
 
 ![alt text](dist/HIST.png "Distribución de puntajes del examen de admisión por frecuencia relativa")
 
-Si contenemos las notas en 50 rangos podemos apreciar que algunos de los puntajes a partir de 1686 crecen en una proporción irregular y mucho más alta que en los casos precedentes.
+Si contenemos los puntajes en 50 rangos podemos apreciar que algunos de los puntajes a partir de 1686 crecen en una proporción irregular y mucho más alta que en los casos precedentes.
 
 ![alt text](dist/NORM.png "Distribución de puntajes del examen de admisión por densidad de probabilidad")
 
@@ -24,11 +24,11 @@ Se puede apreciar una divergencia entre la densidad de probabilidad de la distri
 
 ![alt text](dist/RSI.png "Indicador RSI de 14 periodos para puntajes de éxamen de admisión")
 
-De acuerdo al índice de fuerza relativa, hay señales de un cambio de tendencia a partir de los puntajes superiores a 1685. Los retrocesos a partir de ese punto forman una línea con tendencia al alza.
+De acuerdo al índice de fuerza relativa, hay señales de un posible cambio de tendencia a partir de los puntajes superiores a 1685. Los retrocesos en al RSI a partir de ese punto forman una línea con tendencia al alza.
 
 ## Conclusiones
 
-La Universidad Nacional Mayor de San Marcos rechazó que haya existido alguna irregularidad durante el proceso de admisión 2022 II. Sin embargo, dados los resultados del presente análisis puedo concluir que **SÍ HAY IRREGULARIDADES EN LOS RESULTADOS**.
+La Universidad Nacional Mayor de San Marcos rechazó que haya existido alguna irregularidad durante el proceso de admisión 2022 II [[3]]. Sin embargo, dados los resultados del presente análisis puedo concluir que **SÍ HAY IRREGULARIDADES EN LOS RESULTADOS**.
 
 ## Referencias
 
@@ -39,3 +39,7 @@ La Universidad Nacional Mayor de San Marcos rechazó que haya existido alguna ir
 2. Oficina Central de Admisión. (13 de marzo de 2022). _Resultados Admisión 2022-11: EBR/EBA - Medicina Humana_. Universidad Mayor de San Marcos. Recuperado el 14 de marzo de 2022 de https://admision.unmsm.edu.pe/simple/ResultadosSabado_12/A/011/0.html
 
 [2]: https://admision.unmsm.edu.pe/simple/ResultadosSabado_12/A/011/0.html
+
+3. Universidad Mayor de San Marcos. (13 de marzo de 2022). _COMUNICADO | La #UNMSM desmiente las informaciones que vienen circulando en redes sociales sobre supuestos fraudes durante el Examen de Admisión 2022-II_. Facebook. Recuperado el 14 de marzo de 2022 de https://www.facebook.com/1551UNMSM/posts/7075665145838009
+
+[3]: https://www.facebook.com/1551UNMSM/posts/7075665145838009
